@@ -1,0 +1,18 @@
+scaricato-github-nvm link:<< https://github.com/coreybutler/nvm-windows/releases >>
+
+setup.exe --> installato e riavviato il pc
+
+nel terminale: nvm install --lts
+
+nel terminale:nvm use lts
+
+nel terminale: npx create-react-app
+
+nel terminale: y
+--------------------------------------------------
+entri nella cartella dove si trova my-app nel terminale
+
+npm run start (prende il codice react lo compila in js e lo manda al browser)
+
+(per fermare la run tieni premuto ctrl+c)
+
